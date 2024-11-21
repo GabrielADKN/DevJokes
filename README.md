@@ -2,7 +2,7 @@
 
 A modern, minimalist web application that serves programming-related jokes with style. Built with React, TypeScript, and Tailwind CSS.
 
-(![image](https://github.com/user-attachments/assets/0faf1582-727c-44ee-99cc-531fbc6f7d8d)
+![image](https://github.com/user-attachments/assets/0faf1582-727c-44ee-99cc-531fbc6f7d8d)
 
 ## Features
 
@@ -25,7 +25,7 @@ A modern, minimalist web application that serves programming-related jokes with 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dev-jokes.git
+git clone https://github.com/GabrielADKN/DevJokes
 ```
 
 2. Install dependencies:

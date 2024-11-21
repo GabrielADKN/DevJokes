@@ -2,8 +2,7 @@
 
 A modern, minimalist web application that serves programming-related jokes with style. Built with React, TypeScript, and Tailwind CSS.
 
-![Dev Jokes Screenshot](![image](https://github.com/user-attachments/assets/ec24a039-95b3-496f-a1e0-dfffd4033f49)
-)
+(![image](https://github.com/user-attachments/assets/0faf1582-727c-44ee-99cc-531fbc6f7d8d)
 
 ## Features
 
